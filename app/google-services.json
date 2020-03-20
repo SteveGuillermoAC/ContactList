@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "620807575040",
+    "firebase_url": "https://contactos-69e8b.firebaseio.com",
+    "project_id": "contactos-69e8b",
+    "storage_bucket": "contactos-69e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620807575040:android:f4a88a94e015c2e9a4eae5",
+        "android_client_info": {
+          "package_name": "ec.edu.tecnologico.contactos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620807575040-nn7qi8d3olobtdubg0fdgn2rvqnu14su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ec.edu.tecnologico.contactos",
+            "certificate_hash": "d936735ffa3b9b2bb9e1260d242dcd69e00fb438"
+          }
+        },
+        {
+          "client_id": "620807575040-qpl3qf13u85901jmdfvgjkatc3bhrj4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXvO4E1hnQJlcjV-GxHaOIbdZmkBd1CIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620807575040-qpl3qf13u85901jmdfvgjkatc3bhrj4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
